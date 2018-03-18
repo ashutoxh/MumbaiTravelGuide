@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#4A312A</color>or>
+    <color name="colorTanBackground">#ffffe6</color>
+
+    <color name="colorTextPlaces">#00ADAA</color>
+
+    <color name="colorTextEateries">#FD8E09</color>
+
+    <color name="colorTextMalls">#379237</color>
+
+    <color name="colorTextCinema">#C1016A</color>
+</resources>
